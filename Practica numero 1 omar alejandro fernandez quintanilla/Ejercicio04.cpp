@@ -10,7 +10,7 @@ using namespace std;
 
 int main() {
     int radio, volumen;
-    int PI = 31416;  // π aproximado con 4 decimales, multiplicado por 10000
+    int PI = 31416; 
 
     cout << "Ingrese el radio de la esfera: ";
     cin >> radio;
@@ -21,3 +21,4 @@ int main() {
 
     return 0;
 }
+
